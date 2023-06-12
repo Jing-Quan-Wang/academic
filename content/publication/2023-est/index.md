@@ -2,7 +2,7 @@
 title: "An example"
 authors:
 - admin
-- ABC, CDZ, BBZ*
+- ABC, CDZ, BBZ1*
 
 date: "2023-01-20T00:00:00Z"
 doi: "10.1021/acs.est.2c06327"
