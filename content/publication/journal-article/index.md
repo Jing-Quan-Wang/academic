@@ -80,7 +80,7 @@ authors:
 - admin
 - Min Zheng, Erdeng Du, Wenhai Chu, and Hongguang Guo*
 author_notes:
-- "Equal contribution"
+- "First Author"
 
 date: "2023-01-20T00:00:00Z"
 doi: "https://doi.org/10.1021/acs.est.2c06327"
