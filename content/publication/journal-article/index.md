@@ -74,6 +74,16 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 
+---
+title: "A Novel Source of Radicals from UV/Dichloroisocyanurate for Surpassing Abatement of Emerging Contaminants Versus Conventional UV/Chlor(am)ine Processes"
+authors:
+- admin
+- Min Zheng, Erdeng Du, Wenhai Chu, and Hongguang Guo*
+author_notes:
+- "Equal contribution"
+
+date: "2023-01-20T00:00:00Z"
+doi: "https://doi.org/10.1021/acs.est.2c06327"
 
 publishDate: "2023-01-20T00:00:00Z"
 publication_types: ["2"]
