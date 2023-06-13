@@ -1,6 +1,5 @@
 ---
-title: Publications 
-title: First and corresponding authorships
+title: Publications                First and corresponding authorships
 cms_exclude: true
 
 # View.
