@@ -32,6 +32,6 @@ color=#ee82ee>Principal Investigator</font></b>).</li>
 <li>Investigation on the Mechanisms of Ferrate-Catalyzed Peroxymonosulfate for Fluoroquinolone Antibiotics Degradation (51508354), National Natural Science Foundation of China, (2016-2018, Participant).</li>
 <li>Degradation of Estrogen Diethyl Phthalate by BiOI/Fe3O4-activated Persulfate, National College Students' innovation and entrepreneurship training program, (2016-2017, <b><font 
 
-color=#ee82ee>Principal Investigator</font></b>).</li>
+color=#EE82EE>Principal Investigator</font></b>).</li>
 
 </ol>
