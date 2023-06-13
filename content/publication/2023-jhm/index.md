@@ -17,7 +17,7 @@ doi: "10.1016/j.jhazmat.2023.130996"
 publishDate: "2023-05-15T00:00:00Z"
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = first;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ["2"]

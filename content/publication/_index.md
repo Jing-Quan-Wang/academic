@@ -14,5 +14,5 @@ header:
   caption: ''
   image: ''
 ---
-(First and corresponding authorships)<br>
+(First and corresponding authorships)
 ---
