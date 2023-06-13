@@ -14,6 +14,5 @@ header:
   caption: ''
   image: ''
 ---
-===
 (First and corresponding authorships)
 ---
