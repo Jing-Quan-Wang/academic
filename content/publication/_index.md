@@ -1,5 +1,5 @@
 ---
-title: Publications (First and corresponding authorships)
+title: Publications
 cms_exclude: true
 
 # View.
@@ -14,9 +14,6 @@ header:
   caption: ''
   image: ''
 ---
-ac
-title
 ===
-
-1.abc
+(First and corresponding authorships)
 ---
