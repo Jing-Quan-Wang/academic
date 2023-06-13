@@ -1,7 +1,8 @@
 ---
 title: "Peroxymonosulfate activation by porous BiFeO3 for the degradation of bisphenol AF: Non-radical and radical mechanism"
 authors:
-- (1) <b>Jingquan Wang</b>
+- <1> 
+- admin
 - Chengjin Wang, Hongguang Guo*, Yang Liu, Wei Li, and Bo Yang
 
 
