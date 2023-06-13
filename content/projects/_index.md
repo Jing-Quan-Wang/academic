@@ -28,6 +28,6 @@ header:
 <li>Visble light-BiOI/Fe3O4 Induced Persulfate Activation for Chloramphenicol Removal, Innovation and Creativity Experiment Project by Sichuan University, (2017-2018, <b><p style="color:LightCoral; display:inline">Principal Investigator</p></b>).</li>
 
 <li>Investigation on the Mechanisms of Ferrate-Catalyzed Peroxymonosulfate for Fluoroquinolone Antibiotics Degradation (51508354), National Natural Science Foundation of China, (2016-2018, Participant).</li>
-<li>Degradation of Estrogen Diethyl Phthalate by BiOI/Fe3O4-activated Persulfate, National College Students' innovation and entrepreneurship training program, (2016-2017, <b><p style="color:LightCoral; white-space:nowrap">Principal Investigator</p></b>).</li>
+<li>Degradation of Estrogen Diethyl Phthalate by BiOI/Fe3O4-activated Persulfate, National College Students' innovation and entrepreneurship training program, (2016-2017, <b><p style="color:LightCoral; display:inline">Principal Investigator</p></b>).</li>
 
 </ol>
