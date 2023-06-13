@@ -1,5 +1,5 @@
 ---
-title: Experiences
+title: 
 cms_exclude: true
 
 
@@ -9,21 +9,23 @@ header:
   image: ''
 ---
 
-<h2>Education</h2>
-
+<b><h1>Education</h1>
+</b>
 <ul>
 
-<li><b>Ph.D.</b> in Environmental Science and Engineering, 2021 ~ ongoing.
+<br><li><b>Ph.D.</b> in Environmental Science and Engineering, 2021 ~ ongoing.
 
-<br><a href="https://en.scu.edu.cn/" target="_blank">Sichuan University</a>, Chengdu, China.</li>
+<a href="https://en.scu.edu.cn/" target="_blank">Sichuan University</a>, Chengdu, China.</li>
+
 
 <li><b>M.S.</b> in Civil Engineering, 2018-2021.
 
-<br><a href="https://en.scu.edu.cn/" target="_blank">Sichuan University</a>, Chengdu, China.</li>
+<a href="https://en.scu.edu.cn/" target="_blank">Sichuan University</a>, Chengdu, China.</li>
+
 
 <li><b>B.S.</b> in Water Supply and Drainage Engineering, 2014-2018.
 
-<br><a href="https://en.scu.edu.cn/" target="_blank">Sichuan University</a>, Chengdu, China.</li>
+<a href="https://en.scu.edu.cn/" target="_blank">Sichuan University</a>, Chengdu, China.</li>
 
 </ul>
 
@@ -34,12 +36,12 @@ header:
 
 <br>
 
-<h2>Awards and Honors</h2>
-
+<b><h1>Awards and Honors</h1>
+</b>
 <ol>
 
 
-<li> 2020, 2022. <b>National Scholarship</b>, China (2020, 2022).</li>
+<br><li> 2020, 2022. <b>National Scholarship</b>, China (2020, 2022).</li>
 
 <li> 2022. The second prize for <b>National Environmental Friendly Technology Competition</b>, Northwest Region in China.</li>
 
