@@ -15,7 +15,7 @@ header:
 
 <li>Investigation on the Mechanism of Carbon Reduction and Pollution Reduction of Ultra-short-chain Perfluorinated Substances in Water Environment, Science Fund for Distinguished Young Scholars of Sichuan Province, (2023-2025, Major Participant).</li>
 
-<li>Investigation on the Mechanism of Disinfectant Transport and Risk Control of Disinfection By-products in the Water Environment in the Context of Global Epidemic Prevention (2022116), Sichuan Province Science and Technology Support Program, (2022-2023, <b><p style="color:LightCoral">Principal Investigator</p></b>).</li>
+<li>Investigation on the Mechanism of Disinfectant Transport and Risk Control of Disinfection By-products in the Water Environment in the Context of Global Epidemic Prevention (2022116), Sichuan Province Science and Technology Support Program, (2022-2023, <b><p style="color:LightCoral" style="white-space:nowrap;">Principal Investigator</p></b>).</li>
 
 <li>Investigation on the Performance and Mechanism of Persulfate-based AOPs on Ultrashort Chain Perfluorinated Substances in Water Environment (42170060), National Natural Science Foundation of China, (2022-2025, Major Participant).</li>
 
