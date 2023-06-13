@@ -1,6 +1,7 @@
 ---
 title: "Generality and diversity on the kinetics, toxicity and DFT studies of sulfate radical-induced transformation of BPA and its analogues"
 authors:
+- <5>
 - admin
 - Min Zheng, Yang Deng, Min Liu, Ying Chen, Naiyun Gao, Erdeng Du, Wenhai Chu, and Hongguang Guo*
 

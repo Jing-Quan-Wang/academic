@@ -1,6 +1,7 @@
 ---
 title: "Crucial roles of oxygen and superoxide radical in bisulfite-activated persulfate oxidation of bisphenol AF: Mechanisms, kinetics and DFT studies"
 authors:
+- <2>
 - admin
 - Chengjin Wang, Hongguang Guo*, Tao Ye, Yang Liu, Xin Cheng, Wei Li, Bo Yang, and Erdeng Du
 
