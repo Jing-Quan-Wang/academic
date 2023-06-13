@@ -15,7 +15,7 @@ header:
 
 <li>Investigation on the Mechanism of Carbon Reduction and Pollution Reduction of Ultra-short-chain Perfluorinated Substances in Water Environment, Science Fund for Distinguished Young Scholars of Sichuan Province, (2023-2025, Major Participant).</li>
 
-<li>Investigation on the Mechanism of Disinfectant Transport and Risk Control of Disinfection By-products in the Water Environment in the Context of Global Epidemic Prevention (2022116), Sichuan Province Science and Technology Support Program, (2022-2023, <b><p style="color:LightCoral"; style="display:inline-block">Principal Investigator</p></b>).</li>
+<li>Investigation on the Mechanism of Disinfectant Transport and Risk Control of Disinfection By-products in the Water Environment in the Context of Global Epidemic Prevention (2022116), Sichuan Province Science and Technology Support Program, (2022-2023, <b><p style="color:LightCoral; display:inline-block">Principal Investigator</p></b>).</li>
 
 <li>Investigation on the Performance and Mechanism of Persulfate-based AOPs on Ultrashort Chain Perfluorinated Substances in Water Environment (42170060), National Natural Science Foundation of China, (2022-2025, Major Participant).</li>
 
@@ -25,9 +25,9 @@ header:
 
 <li>Removal of Bound Antibiotics by Persulfate Activation in Water Environment (51878422), National Natural Science Foundation of China, (2018-2022, Major Participant).</li>
 
-<li>Visble light-BiOI/Fe3O4 Induced Persulfate Activation for Chloramphenicol Removal, Innovation and Creativity Experiment Project by Sichuan University, (2017-2018, <b><p style="color:LightCoral"; style="display:inline;">Principal Investigator</p></b>).</li>
+<li>Visble light-BiOI/Fe3O4 Induced Persulfate Activation for Chloramphenicol Removal, Innovation and Creativity Experiment Project by Sichuan University, (2017-2018, <b><p style="color:LightCoral; display:inline">Principal Investigator</p></b>).</li>
 
 <li>Investigation on the Mechanisms of Ferrate-Catalyzed Peroxymonosulfate for Fluoroquinolone Antibiotics Degradation (51508354), National Natural Science Foundation of China, (2016-2018, Participant).</li>
-<li>Degradation of Estrogen Diethyl Phthalate by BiOI/Fe3O4-activated Persulfate, National College Students' innovation and entrepreneurship training program, (2016-2017, <b><p style="color:LightCoral";style="white-space:nowrap">Principal Investigator</p></b>).</li>
+<li>Degradation of Estrogen Diethyl Phthalate by BiOI/Fe3O4-activated Persulfate, National College Students' innovation and entrepreneurship training program, (2016-2017, <b><p style="color:LightCoral; white-space:nowrap">Principal Investigator</p></b>).</li>
 
 </ol>
