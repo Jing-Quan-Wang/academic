@@ -2,7 +2,7 @@
 title: "ABC"
 authors:
 - admin
-- CC
+- CCC
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
