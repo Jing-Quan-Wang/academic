@@ -41,27 +41,49 @@ header:
 <ol>
 
 
-<li> 2020, 2022. <b>National Scholarship</b>, China (2020, 2022).</li>
+<li> 2020, 2022. <b><font 
 
-<li> 2022. The second prize for <b>National Environmental Friendly Technology Competition</b>, Northwest Region in China.</li>
+color=#ee82ee>National Scholarship</font></b>, China (2020, 2022).</li>
 
-<li> 2022. The second prize for <b>National College Students energy saving and emission reduction contest</b>, Sichuan University.</li>
+<li> 2022. The second prize for <b><font 
 
-<li> 2021. <b>Excellent Master's Thesis</b>, Sichuan University.</li>
+color=#ee82ee>National Environmental Friendly Technology Competition</font></b>, Northwest Region in China.</li>
 
-<li> 2020. <b>Comprehensive Quality A Grade Certificate</b>, Sichuan Province.</li>
+<li> 2022. The second prize for <b><font 
 
-<li> 2018-2022. <b>The First Scholarship for Excellence</b>, Sichuan University.</li>
+color=#ee82ee>National College Students energy saving and emission reduction contest</font></b>, Sichuan University.</li>
 
-<li> 2018. First Prize of <b>Excellent Design for Civil Engineering and Architecture Students in High Schools</b>, Sichuan Civil Engineering and Construction Society.</li>
+<li> 2021. <b><font 
 
-<li> 2018. <b>Outstanding Graduates</b>, Sichuan University.</li>
+color=#ee82ee>Excellent Master's Thesis</font></b>, Sichuan University.</li>
 
-<li> 2017. Second Prize of <b>Excellent Paper for "Student Innovation and Entrepreneurship Forum"</b>, Sichuan University.</li>
+<li> 2020. <b><font 
 
-<li> 2017. Second Prize of<b> Excellent Project for "Student Innovation and Entrepreneurship Forum"</b>, Sichuan University.</li>
+color=#ee82ee>Comprehensive Quality A Grade Certificate</font></b>, Sichuan Province.</li>
 
-<li> 2015, 2016, 2022. <b>Advanced Individual</b>, Sichuan University.</li>
+<li> 2018-2022. <b><font 
+
+color=#ee82ee>The First Scholarship for Excellence</font></b>, Sichuan University.</li>
+
+<li> 2018. First Prize of <b><font 
+
+color=#ee82ee>Excellent Design for Civil Engineering and Architecture Students in High Schools</font></b>, Sichuan Civil Engineering and Construction Society.</li>
+
+<li> 2018. <b><font 
+
+color=#ee82ee>Outstanding Graduates</font></b>, Sichuan University.</li>
+
+<li> 2017. Second Prize of <b><font 
+
+color=#ee82ee>Excellent Paper for "Student Innovation and Entrepreneurship Forum"</font></b>, Sichuan University.</li>
+
+<li> 2017. Second Prize of<b><font 
+
+color=#ee82ee> Excellent Project for "Student Innovation and Entrepreneurship Forum"</font></b>, Sichuan University.</li>
+
+<li> 2015, 2016, 2022. <b><font 
+
+color=#ee82ee>Advanced Individual</font></b>, Sichuan University.</li>
 
 
 

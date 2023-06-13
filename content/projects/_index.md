@@ -25,9 +25,13 @@ header:
 
 <li>Removal of Bound Antibiotics by Persulfate Activation in Water Environment (51878422), National Natural Science Foundation of China, (2018-2022, Major Participant).</li>
 
-<li>Visble light-BiOI/Fe3O4 Induced Persulfate Activation for Chloramphenicol Removal, Innovation and Creativity Experiment Project by Sichuan University, (2017-2018, <b>`Principal Investigator`</b>).</li>
+<li>Visble light-BiOI/Fe3O4 Induced Persulfate Activation for Chloramphenicol Removal, Innovation and Creativity Experiment Project by Sichuan University, (2017-2018, <b><font 
+
+color=#ee82ee>Principal Investigator</font></b>).</li>
 
 <li>Investigation on the Mechanisms of Ferrate-Catalyzed Peroxymonosulfate for Fluoroquinolone Antibiotics Degradation (51508354), National Natural Science Foundation of China, (2016-2018, Participant).</li>
-<li>Degradation of Estrogen Diethyl Phthalate by BiOI/Fe3O4-activated Persulfate, National College Students' innovation and entrepreneurship training program, (2016-2017, <b>`Principal Investigator`</b>).</li>
+<li>Degradation of Estrogen Diethyl Phthalate by BiOI/Fe3O4-activated Persulfate, National College Students' innovation and entrepreneurship training program, (2016-2017, <b><font 
+
+color=#ee82ee>Principal Investigator</font></b>).</li>
 
 </ol>
