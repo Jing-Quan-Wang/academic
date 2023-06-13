@@ -1,7 +1,7 @@
 ---
 title: "Reevaluation of radical-induced differentiation in UV-based advanced oxidation processes (UV/hydrogen peroxide, UV/peroxydisulfate, and UV/ chlorine) for metronidazole removal: Kinetics, mechanism, toxicity variation, and DFT studies"
 authors:
-- <4>
+
 - admin
 - Jing Deng, Erdeng Du, and Hongguang Guo*
 

@@ -1,7 +1,7 @@
 ---
 title: "Impact of hydrological factors on the dynamic of COVID-19 epidemic: A multi-region study in China"
 authors:
-- <3> 
+ 
 - admin
 - Wei Li, Bo Yang, Xin Cheng, Zixin Tian, and Hongguang Guo*
 

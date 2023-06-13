@@ -1,7 +1,7 @@
 ---
 title: "Trade-off effect of dissolved organic matter on degradation and transformation of micropollutants: A review in water decontamination"
 authors:
-- <7>
+
 - Xingyu Chen
 - admin
 - Han Wu, Zhuoyu Zhu, Jianfei Zhou, and Hongguang Guo*
