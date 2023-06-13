@@ -17,19 +17,22 @@ main:
     url: '/publication'
 
     weight: 30
+  - name: Publications2
+
+
+    url: '/publications2'
+
+
+    weight: 40
   - name: Projects
 
     url: '/projects'
 
-    weight: 40
+    weight: 50
   - name: Teaching
     url: '/post'
-    weight: 50
-  - name: Publications2
-
-    url: '/publications2'
-
     weight: 60
+
 
   # - name: Talks
   #   url: '/talk'
