@@ -3,10 +3,11 @@ title: "Trade-off effect of dissolved organic matter on degradation and transfor
 authors:
 - Xingyu Chen
 - admin
+- Han Wu, Zhuoyu Zhu, Jianfei Zhou, and Hongguang Guo*
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-- Han Wu, Zhuoyu Zhu, Jianfei Zhou, and Hongguang Guo*
+
 
 date: "2023-05-15T00:00:00Z"
 doi: "10.1016/j.jhazmat.2023.130996"
