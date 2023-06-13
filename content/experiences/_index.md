@@ -13,7 +13,7 @@ header:
 </b>
 <ul>
 
-<br><li><b>Ph.D.</b> in Environmental Science and Engineering, 2021 ~ ongoing.
+<li><b>Ph.D.</b> in Environmental Science and Engineering, 2021 ~ ongoing.
 
 <a href="https://en.scu.edu.cn/" target="_blank">Sichuan University</a>, Chengdu, China.</li>
 
@@ -41,7 +41,7 @@ header:
 <ol>
 
 
-<br><li> 2020, 2022. <b>National Scholarship</b>, China (2020, 2022).</li>
+<li> 2020, 2022. <b>National Scholarship</b>, China (2020, 2022).</li>
 
 <li> 2022. The second prize for <b>National Environmental Friendly Technology Competition</b>, Northwest Region in China.</li>
 
