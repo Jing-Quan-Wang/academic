@@ -61,7 +61,7 @@ header:
 
 <li> 2017. Second Prize of <p style="color:royalblue; display:inline">Excellent Project for "Student Innovation and Entrepreneurship Forum"</p>, Sichuan University.</li>
 
-<li> 2015, 2016, 2022. <p style="color:royalblue; display:inline">Advanced Individual</p>>, Sichuan University.</li>
+<li> 2015, 2016, 2022. <p style="color:royalblue; display:inline">Advanced Individual</p>, Sichuan University.</li>
 
 
 
