@@ -4,7 +4,7 @@ authors:
 
 - Xingyu Chen
 - admin
-- <b>Jingquan Wang</b>, Han Wu, Zhuoyu Zhu, Jianfei Zhou, and Hongguang Guo*
+- Han Wu, Zhuoyu Zhu, Jianfei Zhou, and Hongguang Guo*
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
