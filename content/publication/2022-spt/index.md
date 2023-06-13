@@ -19,7 +19,7 @@ publishDate: "2022-12-15T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "<i><b>Separation and Purification Technology</b></i>, 301, 15, 121905"
+publication: "<i><b>Separation and Purification Technology</b></i>, 301, 121905"
 publication_short: ""
 
 abstract: .

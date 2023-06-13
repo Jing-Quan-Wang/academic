@@ -7,7 +7,7 @@ authors:
 
 
 date: "2020-03-30T00:00:00Z"
-doi: "10.1016/j.jhazmat.2020.122228"
+doi: "10.1016/j.apsusc.2019.145097"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-03-30T00:00:00Z"
@@ -19,7 +19,7 @@ publishDate: "2020-03-30T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "<i><b>Applied Surface Science</b></i>, 507, 30, 145097"
+publication: "<i><b>Applied Surface Science</b></i>, 507, 145097"
 publication_short: ""
 
 abstract: .

@@ -19,7 +19,7 @@ publishDate: "2022-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "<i><b>Water Research</b></i>, 1, 219, 118506"
+publication: "<i><b>Water Research</b></i>, 219, 118506"
 publication_short: ""
 
 abstract: .

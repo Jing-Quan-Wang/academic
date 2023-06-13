@@ -7,7 +7,7 @@ authors:
 
 
 date: "2021-07-01T00:00:00Z"
-doi: "10.1016/j.seppur.2022.121905"
+doi: "10.1016/j.envres.2020.110474"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-07-01T00:00:00Z"

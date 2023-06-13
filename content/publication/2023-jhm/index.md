@@ -22,7 +22,7 @@ publishDate: "2023-05-15T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "<i><b>Journal of Hazardous Materials</b></i>, 450, 15, 130996"
+publication: "<i><b>Journal of Hazardous Materials</b></i>, 450, 130996"
 publication_short: ""
 
 abstract: .

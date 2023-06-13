@@ -2,7 +2,7 @@
 title: "Crucial roles of oxygen and superoxide radical in bisulfite-activated persulfate oxidation of bisphenol AF: Mechanisms, kinetics and DFT studies"
 authors:
 - admin
-- Chengjin Wang, Hongguang Guo*, Tao Ye, Yang Liu, Xin Cheng, Wei Li, Bo Yang,and Erdeng Du
+- Chengjin Wang, Hongguang Guo*, Tao Ye, Yang Liu, Xin Cheng, Wei Li, Bo Yang, and Erdeng Du
 
 
 
@@ -19,7 +19,7 @@ publishDate: "2020-06-05T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "<i><b>Journal of Hazardous Materials</b></i>, 391, 5, 122228"
+publication: "<i><b>Journal of Hazardous Materials</b></i>, 391, 122228"
 publication_short: ""
 
 abstract: .
