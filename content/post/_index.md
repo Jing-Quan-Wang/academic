@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title:
 cms_exclude: true
 
 # View.
@@ -13,3 +13,6 @@ header:
   caption: ''
   image: ''
 ---
+
+<b><h1>Teaching</h1></b><br>
+
