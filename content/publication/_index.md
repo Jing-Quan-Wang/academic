@@ -15,7 +15,5 @@ header:
   image: ''
 ---
 
-
-<b><h1>Publications</h1></b>
 (First and corresponding authorships)<br>
 ---
