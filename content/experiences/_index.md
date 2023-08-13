@@ -41,7 +41,7 @@ header:
 <ol>
 
 
-<li> 2020, 2022. <p style="color:royalblue; display:inline"> National Scholarship</p>, China (2020, 2022).</li>
+<li> 2020, 2022. <p style="color:royalblue; display:inline">&nbsp; National Scholarship</p>, China (2020, 2022).</li>
 
 <li> 2022. The second prize for <p style="color:royalblue; display:inline">National Environmental Friendly Technology Competition</p>, Northwest Region in China.</li>
 
