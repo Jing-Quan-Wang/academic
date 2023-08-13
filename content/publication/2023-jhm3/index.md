@@ -1,29 +1,26 @@
 ---
-title: "Reevaluation for UV photolysis of Fe(III) inducing tetracycline abatement: Overlooked significance of complexation-assistance in environmental fates of antibiotics"
+title: "Insights into the electron transfer regime of permanganate activation on carbon nanomaterial reduced from carbon dioxide"
 authors:
 
-- Xin Cheng
 - admin
-- Bo Yang, Chengjin Wang, Wenhai Chu, and Hongguang Guo*
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- Zhizhuo Chai, Shuai Yang, Erdeng Du, and Hongguang Guo*
 
 
-date: "2023-07-15T00:00:00Z"
-doi: "10.1016/j.jhazmat.2023.131909"
+
+date: "2023-10-05T00:00:00Z"
+doi: "10.1016/j.jhazmat.2023.132094"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-07-15T00:00:00Z"
+publishDate: "2023-10-05T00:00:00Z"
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = journal article;
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "<i><b>Journal of Hazardous Materials</b></i>, 450, 130996"
+publication: "<i><b>Journal of Hazardous Materials</b></i>, 459, 132094"
 publication_short: ""
 
 abstract: .
@@ -53,6 +50,11 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
+
+
+
+
 
 
 

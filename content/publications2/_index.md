@@ -13,6 +13,12 @@ header:
 <br>
 <ol>
 
+
+<li>Z. Chai, <b><u>J. Wang</u></b>, Y. Dai, E. Du, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0013935123014974" target="_blank">Synergy between UV light and trichloroisocyanuric acid on methylisothiazolinone degradation: Performance, kinetics and degradation pathway</a>. <b><em>Environmental Research</em></b>, 236, 116693 (2023). </li>
+
+<li>S. Yang, <b><u>J. Wang</u></b>, Z. Chai, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0045653523014200" target="_blank">Insights into the carbon nanotubes-mediated activation of permanganate for decontamination under high salinity</a>. <b><em>Chemosphere</em></b>, 336, 139153 (2023). </li>
+
+
 <li>R. Li, <b><u>J. Wang</u></b>, H. Wu, Z. Zhu, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586622004853" target="_blank">Periodate activation for degradation of organic contaminants: Processes, performance and mechanism</a>. <b><em>Separation and Purification Technology</em></b>, 292, 120928 (2022). </li>
 
 <li>W. Li, Y. Zhang, X. Cheng, <b><u>J. Wang</u></b>, B. Yang, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586621016737" target="_blank">Amino-modified metal-organic frameworks as peroxymonosulfate catalyst for bisphenol AF decontamination: ROS generation, degradation pathways, and toxicity evaluation</a>. <b><em>Separation and Purification Technology</em></b>, 282 (2022). </li>
