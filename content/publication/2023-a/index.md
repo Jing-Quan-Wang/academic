@@ -1,5 +1,5 @@
 ---
-title: "Peroxymonosulfate activation by porous BiFeO3 for the degradation of bisphenol AF: Non-radical and radical mechanism"
+title: "Insights into the electron transfer regime of permanganate activation on carbon nanomaterial reduced from carbon dioxide"
 authors:
 
 - admin
@@ -7,11 +7,11 @@ authors:
 
 
 
-date: "2023-07-21T00:00:00Z"
+date: "2023-10-05T00:00:00Z"
 doi: "10.1016/j.jhazmat.2023.132094"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-07-21T00:00:00Z"
+publishDate: "2020-10-05T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,7 +20,7 @@ publishDate: "2020-07-21T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "<i><b>Applied Surface Science</b></i>, 459, 132094"
+publication: "<i><b>Journal of Hazardous Materials</b></i>, 459, 132094"
 publication_short: ""
 
 abstract: .
