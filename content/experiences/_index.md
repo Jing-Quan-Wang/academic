@@ -18,12 +18,12 @@ header:
 <a href="https://en.scu.edu.cn/" target="_blank">Sichuan University</a>, Chengdu, China.</li>
 
 
-<li><b>M.S.</b> in Civil Engineering, 2018-2021.
+<li><b>M.S.</b> in Civil Engineering, 2018 ~ 2021.
 
 <a href="https://en.scu.edu.cn/" target="_blank">Sichuan University</a>, Chengdu, China.</li>
 
 
-<li><b>B.S.</b> in Water Supply and Drainage Engineering, 2014-2018.
+<li><b>B.S.</b> in Water Supply and Drainage Engineering, 2014 ~ 2018.
 
 <a href="https://en.scu.edu.cn/" target="_blank">Sichuan University</a>, Chengdu, China.</li>
 
@@ -41,7 +41,7 @@ header:
 <ol>
 
 
-<li> 2020, 2022. <p style="color:royalblue; display:inline">&nbsp; National Scholarship</p>, China (2020, 2022).</li>
+<li> 2020, 2022. <p style="color:royalblue; display:inline">&nbsp; National Scholarship</p>, China.</li>
 
 <li> 2022. The second prize for <p style="color:royalblue; display:inline">&nbsp; National Environmental Friendly Technology Competition</p>, Northwest Region in China.</li>
 
