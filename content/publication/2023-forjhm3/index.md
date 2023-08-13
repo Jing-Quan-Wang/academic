@@ -1,5 +1,5 @@
 ---
-title: "Insights into the electron transfer regime of permanganate activation on carbon nanomaterial reduced from carbon dioxide"
+title: "abc"
 authors:
 
 - admin
