@@ -1,5 +1,5 @@
 ---
-title: "abc"
+title: "Insights into the electron transfer regime of permanganate activation on carbon nanomaterial reduced from carbon dioxide"
 authors:
 
 - admin
@@ -7,11 +7,11 @@ authors:
 
 
 
-date: "2023-10-05T00:00:00Z"
+date: "2023-2-05T00:00:00Z"
 doi: "10.1016/j.jhazmat.2023.132094"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-10-05T00:00:00Z"
+publishDate: "2023-2-05T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
